@@ -159,7 +159,7 @@ defaults:
   home:
     heading: "长风破浪会有时"
     subheading: "静 静 静"
-    banner: "https://unsplash.com/photos/a-group-of-cows-standing-in-the-middle-of-a-body-of-water-Kx5nd8cWKos"
+    banner: "https://plus.unsplash.com/premium_photo-1664304423623-4f9d5ed90b4f?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
