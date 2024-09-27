@@ -36,11 +36,11 @@ author: yhliao
 # * copyleft: (cleft)
 # * sound recording copyright: (p) - ℗
 #
-# For example:
+# # For example:
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Copyright (c) 2017-{currentYear} <a href="https://yhliao.cn/">{author}</a>"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -159,23 +159,23 @@ defaults:
   home:
     heading: "长风破浪会有时"
     subheading: "静 静 静"
-    banner: "https://plus.unsplash.com/premium_photo-1664304423623-4f9d5ed90b4f?q=80&w=2336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    banner: "https://images.unsplash.com/photo-1508195578732-2d3d3eacf15f?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
-# banner:
-#   video: null             # Video banner source
-#   loop: true              # Video loop
-#   volume: 0               # Video volume (100% is 1.0)
-#   start_at: 0             # Video start time
-#   image: null             # Image banner source
-#   opacity: 1.0            # Banner opacity (100% is 1.0)
-#   background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
-#   height: "640px"         # Banner default height
-#   min_height: null        # Banner minimum height
-#   heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-#   subheading_style: null  # Custom subheading style (e.g. color: gold)
+banner:
+  video: null             # Video banner source
+  loop: true              # Video loop
+  volume: 0               # Video volume (100% is 1.0)
+  start_at: 0             # Video start time
+  image: null             # Image banner source
+  opacity: 1.0            # Banner opacity (100% is 1.0)
+  background: "rgba(0, 0, 0, 0.8)"  # Banner background (Could be a image)
+  height: "640px"         # Banner default height
+  min_height: null        # Banner minimum height
+  heading_style: null     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
+  subheading_style: null  # Custom subheading style (e.g. color: gold)
 
 # Excerpt size setting
 # excerpt_size: 350
