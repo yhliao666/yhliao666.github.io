@@ -155,7 +155,7 @@ yat:
 #   - about.md
 
 # Page default value
-# defaults:
+defaults:
   home:
     heading: "长风破浪会有时"
     subheading: "静 静 静"
